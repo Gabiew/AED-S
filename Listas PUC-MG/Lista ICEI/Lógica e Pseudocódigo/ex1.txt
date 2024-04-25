@@ -1,1 +1,2 @@
-
+As únicas possíveis alternativas são:
+ res -> a ; b ; c ; e ; h ;
