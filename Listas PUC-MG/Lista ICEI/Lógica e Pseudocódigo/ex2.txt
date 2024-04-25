@@ -1,0 +1,7 @@
+A) int 7 // float 7 
+B) char P
+C)
+B) float 3.3333 // double 3.3333
+
+D) string TRUE
+E) 
