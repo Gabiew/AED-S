@@ -1,1 +1,3 @@
+<h1>Olá Leitor!!</h1>
+<p>Contextualizando, essa é uma lista da minha faculdade!<br> Como eu não sei se posso colocar aqui, vou deixar apenas os códigos para você dar uma olhadinha.<br> Ao longo da minha jornada, vou atualizando este README com uma breve descrição do exercício. Digo isso porque às vezes você está fazendo um exercício muito parecido e quer ver alguma inspiração ou sei lá, você só está precisando de uma luz na sua vida. Vai ficar tudo bem amigo(a\e), todo mundo já pensou em trancar o curso!! <br>No mais, é isso! <strong>Reforçando</strong>, eu sou iniciante (Leigo), se você é veterano na área, seja gentil ao julgar. <br>Um grande abraço da Gabi, e lembre-se que o início é uma fase, logo logo a gente se acostuma <3</p>
 
