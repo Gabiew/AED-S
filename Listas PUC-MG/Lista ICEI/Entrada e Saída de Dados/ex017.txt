@@ -1,0 +1,1 @@
+"Esse código basicamente inverte a ordem dos números. Após o usuário fornecer os números, o primeiro número é armazenado temporariamente na variável denominada 'aux' e, em seguida, ocorre a troca."
