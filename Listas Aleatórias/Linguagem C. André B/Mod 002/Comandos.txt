@@ -1,0 +1,3 @@
+1) Elabore um programa que escreva as mensagens "Início do programa" e "Fim" na tela, uma em cada linha usando apenas um comando printf().
+2)Escreva um programa que leia um número inteiro e depois imprima.
+3)Escreva um programa que leia um número inteiro e depois imprima a mensagem "Valor lido:", deguindo o valor inteiro. Use apenas o comando printf().
